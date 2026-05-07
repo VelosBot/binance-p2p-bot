@@ -20,7 +20,7 @@
 
 If you run a Binance P2P merchant account and you're tired of refreshing the app every 30 seconds to undercut the next ad, this is the tool that fixes it.
 
-![VelosBot Binance P2P bot dashboard](https://velosbot.com/assets/screen-dashboard.jpeg)
+<img src="https://velosbot.com/assets/screen-dashboard.jpeg" alt="VelosBot Binance P2P bot dashboard" width="240">
 
 ## Why a Binance P2P bot?
 
@@ -67,7 +67,7 @@ Most Binance P2P bots are Telegram-only. You type `/setprice usdt 1.05` into a c
 4. Click Start. Bot runs 24/7 while your PC is on.
 ```
 
-![Settings & Filters](https://velosbot.com/assets/screen-settings.jpeg)
+<img src="https://velosbot.com/assets/screen-settings.jpeg" alt="Settings & Filters" width="240">
 
 ## Pricing
 
@@ -84,7 +84,7 @@ No contracts. No auto-charging. Cancel anytime. Payment in **USDT-TRC20**.
 
 ## Smart filters in action
 
-![Smart Filters](https://velosbot.com/assets/screen-filters.jpeg)
+<img src="https://velosbot.com/assets/screen-filters.jpeg" alt="Smart Filters" width="240">
 
 - Block merchants you don't trust
 - Limit competitor order range (min and max)
