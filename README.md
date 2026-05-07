@@ -65,6 +65,7 @@ Most Binance P2P bots are Telegram-only. You type `/setprice usdt 1.05` into a c
 2. Paste your license key, Binance API key, and secret on the PC client
 3. Configure coins, prices, filters, and competition rules from your phone
 4. Click Start. Bot runs 24/7 while your PC is on.
+5. The whole process can take up to 10 minutes.
 ```
 
 <img src="https://velosbot.com/assets/screen-settings.jpeg" alt="Settings & Filters" width="240">
@@ -109,17 +110,8 @@ No contracts. No auto-charging. Cancel anytime. Payment in **USDT-TRC20**.
 
 ## FAQ
 
-**Do I need to be a verified Binance P2P merchant?**
-Yes. VelosBot only works with verified Binance P2P merchant accounts. Regular Binance accounts cannot use the bot — Binance does not allow regular accounts to post P2P ads.
-
 **Is my Binance API key safe?**
 Yes. Your API key never leaves your PC. It's stored locally in `api_key.json` on your computer. The bot reads the key from your disk and talks to Binance directly. **Our server never receives your API key** — even if our server was hacked, your funds are safe. We also recommend enabling only the Reading permission on the key, and whitelisting your home IP.
-
-**Can I use the bot on multiple Binance accounts?**
-No. Each license is locked to one Binance account. Two accounts = two licenses. Contact us for a multi-account discount.
-
-**What happens when the trial ends?**
-The bot stops updating your ads. Nothing is deleted — your settings stay saved in the app. Pay for the coins you want, we send a paid license key, and ads go back to automatic pricing within minutes.
 
 **Can I cancel anytime?**
 Yes. We don't auto-charge. Every payment is manual. Stop paying = bot stops. No cancellation process needed.
@@ -151,11 +143,6 @@ We answer personally, usually within an hour.
 - [VelosBot Bybit P2P Bot](https://velosbot.com/bots/bybit) — same auto-pricing approach, built for Bybit P2P USDT ads
 - [Other VelosBot products](https://velosbot.com/bots/) — coming soon: more P2P platforms
 
-## Legal
-
-VelosBot is an **independent product**. It is not affiliated with, endorsed by, or sponsored by Binance, Bybit, or any other cryptocurrency exchange.
-
-P2P trading involves risk. The bot only updates prices — you remain in full control of your account, your funds, and your trades. Read the full [Terms of Service](https://velosbot.com/terms.html) and [Privacy Policy](https://velosbot.com/privacy.html) before using the bot.
 
 ## License
 
