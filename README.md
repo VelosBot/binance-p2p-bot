@@ -1,4 +1,4 @@
-# Binance P2P Bot — VelosBot Auto-Pricing for Verified Merchants
+# Binance P2P Bot
 
 > The Binance P2P bot that auto-prices your ads every minute and keeps you **#1 in Binance P2P search results, 24/7**. Built for verified Binance P2P merchants. Free access — no payment required.
 
