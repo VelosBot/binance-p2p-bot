@@ -1,15 +1,15 @@
-# Binance P2P Bot
+# Binance P2P Bot — VelosBot Auto-Pricing for Verified Merchants
 
-> The Binance P2P bot that auto-prices your ads every minute and keeps you **#1 in Binance P2P search results, 24/7**. Built for verified Binance P2P merchants. Free access — no payment required.
+> The Binance P2P bot that auto-prices your ads every minute and keeps you **#1 in Binance P2P search results, 24/7**. Built for verified Binance P2P merchants. 100% free — no license, no payment, no signup.
 
 [![status](https://img.shields.io/badge/status-live-23C16B?style=flat-square)](https://velosbot.com)
 [![platforms](https://img.shields.io/badge/platforms-Windows%20%7C%20Android-F0B90B?style=flat-square)](https://velosbot.com)
-[![access](https://img.shields.io/badge/access-Free-23C16B?style=flat-square)](https://velosbot.com)
+[![price](https://img.shields.io/badge/price-Free-23C16B?style=flat-square)](https://velosbot.com/download/)
 [![coins](https://img.shields.io/badge/coins-5%20supported-F0B90B?style=flat-square)](https://velosbot.com)
 [![license](https://img.shields.io/badge/license-Proprietary-lightgrey?style=flat-square)](#license)
 
 **Website:** [velosbot.com](https://velosbot.com)
-**Get license (free):** [velosbot.com](https://velosbot.com)
+**Download (free):** [velosbot.com/download/](https://velosbot.com/download/)
 **WhatsApp:** [+48 452 516 643](https://wa.me/48452516643) · **Telegram:** [@VelosbotSupport](https://t.me/VelosbotSupport)
 
 ---
@@ -56,13 +56,13 @@ Most Binance P2P bots are Telegram-only. You type `/setprice usdt 1.05` into a c
 - **Deadzone & fallback price** — avoid pointless tiny adjustments, default to safe price when no real competitors exist
 - **Native Android app** — change pricing rules and filters from anywhere on your phone
 - **API key never leaves your PC** — saved locally in `api_key.json`, our server never sees it
-- **Account-locked license** — bound to your Binance account, can't be shared
+- **No license, no signup, no account** — download and run
 
 ## How it works
 
 ```
 1. Install VelosBot.exe on your Windows PC + VelosBot Mobile App on Android
-2. Paste your license key, Binance API key, and secret on the PC client
+2. Paste your Binance API key and secret on the PC client
 3. Configure coins, prices, filters, and competition rules from your phone
 4. Click Start. Bot runs 24/7 while your PC is on.
 ```
@@ -71,11 +71,7 @@ Most Binance P2P bots are Telegram-only. You type `/setprice usdt 1.05` into a c
 
 ## Pricing
 
-| Plan | Coins | Price |
-|------|-------|-------|
-| **Free Access** | All 5 coins, all features | Free |
-
-No payment. No card. No contracts. Just request a license on WhatsApp or Telegram and we send your key.
+**100% free.** No payment. No card. No signup. No license key. Just download and run.
 
 If VelosBot helps your business, donations are welcome (USDT-TRC20) — completely optional. See the support section on [velosbot.com](https://velosbot.com).
 
@@ -96,11 +92,10 @@ If VelosBot helps your business, donations are welcome (USDT-TRC20) — complete
 
 ## Installation
 
-1. **Get a free license** — message us on [WhatsApp](https://wa.me/48452516643) or [Telegram](https://t.me/VelosbotSupport). No payment, no card.
-2. **Download** [`VelosBot.exe`](https://velosbot.com/downloads/VelosBot.exe) (Windows desktop client) and the [VelosBot Mobile App](https://velosbot.com/downloads/VelosBot.apk) (Android APK).
-3. **Generate a Binance API key** — sign in to Binance, go to API Management, create a new key. Enable only the **Reading** permission. If you have a static IP at home, whitelist it on the API key.
-4. **Configure the bot** — paste your license key, API key, and secret into VelosBot.exe. Open the Android app, enter the same license key, and configure your coins, prices, filters.
-5. **Click Start.** The bot connects to our cloud, reads your config, and starts updating your Binance P2P ads automatically.
+1. **Download** [`VelosBot.exe`](https://velosbot.com/downloads/VelosBot.exe) (Windows desktop client) and the [VelosBot Mobile App](https://velosbot.com/downloads/VelosBot.apk) (Android APK).
+2. **Generate a Binance API key** — sign in to Binance, go to API Management, create a new key. Enable only the **Reading** permission. If you have a static IP at home, whitelist it on the API key.
+3. **Configure the bot** — paste your Binance API key and secret into VelosBot.exe. Open the Android app and configure your coins, prices, filters.
+4. **Click Start.** The bot connects to our cloud, reads your config, and starts updating your Binance P2P ads automatically.
 
 ## FAQ
 
@@ -111,10 +106,10 @@ Yes. VelosBot only works with verified Binance P2P merchant accounts. Regular Bi
 Yes. Your API key never leaves your PC. It's stored locally in `api_key.json` on your computer. The bot reads the key from your disk and talks to Binance directly. **Our server never receives your API key** — even if our server was hacked, your funds are safe. We also recommend enabling only the Reading permission on the key, and whitelisting your home IP.
 
 **Can I use the bot on multiple Binance accounts?**
-No. Each license is locked to one Binance account. Two accounts = two licenses. Both are free — just request a second one from us.
+Yes. VelosBot is free and has no license lock — install and run it on as many Binance accounts as you want. Just create one API key per account and run one bot instance per account.
 
 **Is this really free?**
-Yes. No payment required to use the bot. Donations (USDT-TRC20) are welcome but completely optional — the bot works the same whether you donate or not.
+Yes. No payment, no license, no signup. Donations (USDT-TRC20) are welcome but completely optional — the bot works the same whether you donate or not.
 
 **Which countries and fiat currencies are supported?**
 Every fiat available on Binance P2P — PKR, PLN, USD, EUR, AED, INR, TRY, BRL, ARS, COP, MXN, VES, BRL and many more. The bot works in any country where Binance P2P operates. You set the fiat in the Settings screen.
@@ -126,7 +121,7 @@ WhatsApp or Telegram — we answer personally. No support tickets, no chatbots. 
 
 ## Get started
 
-- **[Get a free license →](https://wa.me/48452516643)** (WhatsApp — no payment, no card)
+- **[Download VelosBot →](https://velosbot.com/download/)** (free — no signup, no license)
 - **[Read the full feature list →](https://velosbot.com/#features)**
 - **[Watch the setup tutorial →](https://velosbot.com/#tutorials)**
 
@@ -153,7 +148,7 @@ P2P trading involves risk. The bot only updates prices — you remain in full co
 
 Copyright © 2026 VelosBot. All rights reserved.
 
-This repository is a **product description and download portal**. The VelosBot bot software (VelosBot.exe, the Android app, and the licensing server) is **proprietary and not open source**.
+This repository is a **product description and download portal**. The VelosBot bot software (VelosBot.exe and the Android app) is **proprietary and not open source**.
 
 > ⚠️ Unauthorized copying, redistribution, republication, or forking of this repository in a way that misrepresents authorship or implies an unofficial fork is endorsed by VelosBot is strictly prohibited. The author does not consent to being listed as a contributor in unauthorized forks. If you find an unauthorized fork misusing the VelosBot name, please report it to GitHub Support.
 
